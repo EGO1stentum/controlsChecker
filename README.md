@@ -2,6 +2,7 @@ Hello everyone,
 I had a problem last night so i decided to share my code with you guys.
 
 Issue and Solution
+
 In FiveM, the problem lies in the inability to directly block actions triggered by RegisterKeyMapping(). This occurs because key presses execute commands rather than actions themselves (i guess, not 100% sure).
 As a result, players can perform actions like using phones when their characters are dead.
 
